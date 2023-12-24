@@ -319,10 +319,10 @@ header {
 }
 
 .proj-1 img {
-  height:245px;
-  width: 198px;
+  height:247px;
+  width: 178px;
   object-fit: cover;
-  border-radius: 43%;
+  border-radius: 20%;
   box-shadow: 0 20px 10px -10px rgb(37 41 52 / 31%);
   margin-right: 6.7rem;
 }
@@ -390,10 +390,10 @@ header {
 }
 
 .proj-2 img {
-  height: 245px;
-  width: 198px;
+  height: 247px;
+  width: 178px;
   object-fit: cover;
-  border-radius: 43%;
+  border-radius: 15%;
   box-shadow: 0 20px 10px -10px rgb(37 41 52 / 31%);
   margin-right: 6.7rem;
 }
@@ -562,8 +562,8 @@ header {
   }
 
   .proj-1 img {
-    height: 230px;
-    width: 290px;
+    height: 247px;
+    width: 178px;
     margin-bottom: 0.5rem;
   }
 
@@ -574,8 +574,8 @@ header {
   }
 
   .proj-2 img {
-    height: 250px;
-    width: 290px;
+    height: 247px;
+    width: 178px;
     margin-bottom: 0.5rem;
   }
 

@@ -129,6 +129,7 @@ header {
   color: #2b68d6;
   padding: 0 2.3rem;
   text-align: center;
+  margin-top: 20px;
 }
 
 .skills .skills-heading {
@@ -266,15 +267,14 @@ header {
 
 .navbar.solid .navbar-brand {
   display: inline-block;
-  color: #f0f0e6;
+  color: #07374a;
   transition: color 1s ease 0s;
 }
 
 .navbar-brand {
   display: none;
-  color: #f0f0e6;
-  font-weight: 400;
-  font-weight: bold;
+  color: #07374a;
+  font-weight:bold;
 }
 
 .work-arrow {
